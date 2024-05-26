@@ -1,0 +1,20 @@
+{
+  "name": "objective-parts",
+  "version": "1.0.0",
+  "description": "This is Objective part assiment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maakashbhi/Objective-.git"
+  },
+  "author": "Aakash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maakashbhi/Objective-/issues"
+  },
+  "homepage": "https://github.com/maakashbhi/Objective-#readme"
+}
